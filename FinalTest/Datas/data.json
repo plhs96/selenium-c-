@@ -1,0 +1,34 @@
+﻿{
+  "TestCase1": [
+    {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "product": "Sauce Labs Backpack",
+      "firstname": "Final 01",
+      "lastname": "Test 01",
+      "postalcode": "123456"
+    },
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce",
+      "product": "Sauce Labs Backpack",
+      "firstname": "Final 01",
+      "lastname": "Test 01",
+      "postalcode": "123456"
+    }
+  ],
+
+  "TestCase2": [
+    {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    }
+  ],
+
+  "TestCase3": [
+    {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    }
+  ]
+}
